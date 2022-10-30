@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything my heart desires ❤️**
 
-- 👨‍💻 All of my projects are available at [iamjacobcarter.com](iamjacobcarter.com)
+- 👨‍💻 All of my projects are available at [iamjacobcarter.com](https://iamjacobcarter.com)
 
 - 💬 Ask me about **Vue, Astro, Figma, SCSS, Tailwind**
 
