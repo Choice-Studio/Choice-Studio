@@ -12,8 +12,7 @@
 - 💬 Ask me about **Vue, Astro, Figma, SCSS, Tailwind**
 
 - 📫 How to reach me **jacob@choicedigital.studio**
-
-- 📄 Know about my experiences [iamjacobcarter.com](iamjacobcarter.com)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
