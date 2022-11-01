@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Medi-Aid's Website**
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **anything my heart desires ❤️**
 
