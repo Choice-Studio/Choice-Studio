@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Jacob Carter</h1>
 <h3 align="center">A digital developer and recovering caffeine addict ☕</h3>
 
-- 🔭 I’m currently working on **Medi-Aid's Website**
+- 🔭 I’m currently working on **MediAid's Website**
 
 - 🌱 I’m currently learning **Python**
 
