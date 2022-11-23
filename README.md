@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Vue, Astro, Figma, SCSS, Tailwind**
 
-- 📫 How to reach me **jacob@choicedigital.studio**
+- 📫 How to reach me **jcarterfreelance@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
